@@ -3,4 +3,19 @@
 ## Cabecera H3
 
 
-Soy un readme.
+Underline 1
+-------------
+
+
+
+Underline 2
+========
+
+
+
+. *italic leter*
+- italic __leter 2__
+
+~~achado~~
+
+
